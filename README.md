@@ -15,3 +15,10 @@ A Java-based stock portfolio application demonstrating object-oriented programmi
 Developed as part of a computer science course to practice object-oriented programming in Java. The project uses multiple interacting classes to model stocks, financial data, and investment accounts.
 
 Portions of the application were provided as starter code and extended as part of the project.
+
+## My Contributions
+
+- Implemented `Retail.java`
+- Implemented `Institutional.java`
+- Implemented the `StockAccount` interface
+- Used inheritance/interfaces, ArrayLists, constructors, and stock-management methods
